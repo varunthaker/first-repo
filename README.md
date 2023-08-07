@@ -16,5 +16,5 @@ I have updated the sub-title
 - Second Item
 - Third Item
 
-## Add Link
-> [Spiced Link] (https://www.spiced-academy.com/)
+## Link
+[Spiced Web] (https://www.spiced-academy.com/)
