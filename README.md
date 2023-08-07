@@ -15,3 +15,6 @@ I have updated the sub-title
 - First Item
 - Second Item
 - Third Item
+
+## Add Link
+> [Spiced Link] (https://www.spiced-academy.com/)
